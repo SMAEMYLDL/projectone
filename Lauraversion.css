@@ -1,0 +1,17 @@
+body    {
+    font-size:      small;
+    font-family:        Georgia, Times, serif;
+    color:      #595B5A;
+    background-color:   #FEFBFF;
+}
+p   {
+    border-color:        #B3A2B8;
+    border-width:        1px;
+    border-style:        dashed;
+    background-color:    #BDCCC6;
+    padding:             25px;
+    padding-left:        80px;
+    margin:              30px;
+    margin-right:        250px;
+     
+}
